@@ -1,0 +1,7 @@
+D:\CURSOS\Proyecto_SOLID\Proyecto_SOLID\bin\Debug\Proyecto_SOLID.exe.config
+D:\CURSOS\Proyecto_SOLID\Proyecto_SOLID\bin\Debug\Proyecto_SOLID.exe
+D:\CURSOS\Proyecto_SOLID\Proyecto_SOLID\bin\Debug\Proyecto_SOLID.pdb
+D:\CURSOS\Proyecto_SOLID\Proyecto_SOLID\obj\Debug\Proyecto_SOLID.csprojAssemblyReference.cache
+D:\CURSOS\Proyecto_SOLID\Proyecto_SOLID\obj\Debug\Proyecto_SOLID.csproj.CoreCompileInputs.cache
+D:\CURSOS\Proyecto_SOLID\Proyecto_SOLID\obj\Debug\Proyecto_SOLID.exe
+D:\CURSOS\Proyecto_SOLID\Proyecto_SOLID\obj\Debug\Proyecto_SOLID.pdb
